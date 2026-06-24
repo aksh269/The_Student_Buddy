@@ -1,0 +1,5 @@
+*
+!.gitignore
+!scraper.py
+!daiict_documents raw/
+!daiict_documents raw/**
