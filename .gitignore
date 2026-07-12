@@ -13,3 +13,6 @@
 !daiict_document processed/**
 
 !README.md
+
+!Vector_Database/
+!Vector_Database/**
