@@ -1,4 +1,4 @@
-# UniAsist
+# The-Student-Buddy
 
 Chat agent for students.
 
